@@ -1,0 +1,2 @@
+# Python-OpenCV-learning
+This project is about the practices of the OpenCV with python
